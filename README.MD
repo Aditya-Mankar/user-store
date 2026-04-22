@@ -4,6 +4,16 @@ A Spring Boot REST API that stores and retrieves user data using **Apache GemFir
 
 ---
 
+## Table of Contents
+
+- [API Reference](#api-reference)
+- [GemFire Setup](#gemfire-setup)
+- [Running the Application](#running-the-application)
+- [Running Tests](#running-tests)
+- [Error Handling](#error-handling)
+---
+
+
 ## API Reference
 
 ### Save User — JSON
